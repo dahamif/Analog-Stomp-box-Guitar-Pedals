@@ -5,17 +5,13 @@
 This project was developed as part of the EN2091 Laboratory Practice and Projects module in Semester 3.
 
 ---
-<p align="center">
-  <img src="images/distortion_enclosure.jpg" width="300" alt="Final Distortion Pedal"/>
-  <br/>
-  <em>Final Distortion Pedal</em>
-</p>
+
 
 <p align="center">
   <img src="images//wah_enclosure_3d.jpg" width="400"/>
-  <img src="images/distortion_enclosure_3d" width="250" alt="Phaser Pedal (3D Render)"/>
+   <img src="images//distortion_enclosure_3d.jpg" width="400"/>
   <br/>
-  <em>Left: Wah Pedal (3D Render) &nbsp;&nbsp;&nbsp;&nbsp; Right: Phaser Pedal (3D Render)</em>
+  <em>Left: Wah Pedal (3D Render) &nbsp;&nbsp;&nbsp;&nbsp; Right: Distortion Pedal (3D Render)</em>
 </p>
 
 ## 🎸 Pedal Overview
