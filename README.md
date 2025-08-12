@@ -20,7 +20,9 @@ This project was developed as part of the EN2091 Laboratory Practice and Project
 Simulates the iconic “wah-wah” tone by sweeping frequency bands with a resonant filter circuit controlled by a potentiometer.
 
 - Vocal-like tonal shifts ideal for expressive solos  
-- Built using op-amps and active filter stages  
+- Built using op-amps and active filter stages
+
+  [Distortion demo video](https://drive.google.com/file/d/1t_KzhM_-2GQarfYOH7J1dvQNY4lg6ZpH/view?usp=sharing)
 
 ###  Distortion Pedal
 Adds harmonic richness and sustain by clipping the guitar signal through a dual-stage op-amp and diode-based circuit.
