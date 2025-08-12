@@ -29,7 +29,7 @@ Adds harmonic richness and sustain by clipping the guitar signal through a dual-
 - Adjustable tone and distortion levels
 
 
-[Distortion demo video]([https://drive.google.com/file/d/1ixSL9mObthisthelinkNiTnocfnKQdoOK-slbz-HCYX/view?usp=sharing](https://drive.google.com/file/d/1ixSL9mObNiTnocfnKQdoOK-slbz-HCYX/view?usp=sharing))
+[Distortion demo video](https://drive.google.com/file/d/1ixSL9mObNiTnocfnKQdoOK-slbz-HCYX/view?usp=sharing)
 
 
 
