@@ -26,7 +26,10 @@ Simulates the iconic “wah-wah” tone by sweeping frequency bands with a reson
 Adds harmonic richness and sustain by clipping the guitar signal through a dual-stage op-amp and diode-based circuit.
 
 - High-gain saturation suited for rock and metal  
-- Adjustable tone and distortion levels  
+- Adjustable tone and distortion levels
+
+ [Demo Video](https://your-demo-link.com)
+
 
 ###  Phaser Pedal
 Creates a swirling, spacey effect by phase-shifting the signal across several frequency bands using all-pass filters and modulation.
